@@ -1,0 +1,15 @@
+13:21:53 BattlEye Server: Initialized (v1.207)
+13:21:53 Host identity created.
+13:21:54 Game Port: 2302, Steam Query Port: 2303
+13:25:07 Casey uses modified data file
+13:25:07 BattlEye Server: Player #0 Casey (71.68.187.204:2304) connected
+13:25:07 Player Casey connecting.
+13:25:07 Mission DayZ Epoch Chernarus read from bank.
+13:25:09 BattlEye Server: Player #0 Casey - Legacy GUID: 72aa2c0a684dcc09239c9c93272391c8
+13:25:09 BattlEye Server: Player #0 Casey - GUID: af56b9358cc720f5766fdfbd454aae76 (unverified)
+13:25:09 Player Casey connected (id=76561198134898961).
+13:25:09 BattlEye Server: Verified GUID (af56b9358cc720f5766fdfbd454aae76) of player #0 Casey
+13:25:49 Roles assigned.
+13:25:49 Reading mission ...
+13:26:12 Mission read.
+13:26:41 Game started.
