@@ -3,7 +3,7 @@ server_name = "CRFT Gaming";
 //execVM "admintools\AdminList.sqf";
 execVM "scriptcontrol.sqf";
 // CPC Nametags
-[] execVM "scrips\cpcnametags.sqf";
+[] execVM "customscripts\cpcnametags\cpcnametags.sqf";
 
 
 /*	
