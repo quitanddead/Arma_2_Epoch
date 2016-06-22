@@ -4,6 +4,10 @@ server_name = "CRFT Gaming";
 execVM "scriptcontrol.sqf";
 // CPC Nametags
 [] execVM "customscripts\cpcnametags\cpcnametags.sqf";
+//Color Correction
+ if (!isDedicated) then {
+    [] execVM "customscripts\effects\effects.sqf";
+    };
 
 
 /*	
@@ -77,8 +81,8 @@ DZE_selfTransfuse_Values = [
 300                           // Cooldown Timer
 ];
 
-ns_blowout = true;              // true / false
-ns_blowout_dayz = true;         // true / false
+ns_blowout = false;              // true / false
+ns_blowout_dayz = false;         // true / false
 ns_blow_delaymod = 0.90;        // blowout delay
 ns_blow_itemapsi = "NVGoggles"; // ItemAPSI replacement
 ns_blow_playerdamage = 4000;    // damage players without ns_blow_itemapsi can get per blowout
