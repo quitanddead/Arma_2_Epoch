@@ -1057,7 +1057,7 @@ donorListClass = [
 
 donorListClasses = [
 	["Rad's Loadout","GUE_Soldier_2_DZ",["100Rnd_762x51_M240","100Rnd_762x51_M240","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","30Rnd_9x19_UZI_SD","ItemAntibiotic","ItemBloodbag","ItemEpinephrine","ItemMorphine","Skin_GUE_Soldier_Sniper_DZ","ItemBandage"],["Mk_48_DZ","UZI_SD_EP1","Binocular_Vector","NVGoggles","ItemCompass","ItemHatchet","ItemKnife","Itemmatchbox","Itemetool","ItemSledge","ItemRadio","ItemWatch","ItemGPS","ItemCrowbar","ItemKnife"],"DZ_Backpack_EP1",["5Rnd_86x70_L115A1","5Rnd_86x70_L115A1","5Rnd_86x70_L115A1"],["BAF_LRR_scoped_W"],0,0],
-	[],
+	["Casey's Loadout","Soldier_Sniper_PMC_DZ",["30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","30Rnd_556x45_StanagSD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemAntibiotic","ItemBloodbag","ItemEpinephrine","ItemMorphine"],["M4A1_AIM_SD_CAMO","M9SD","Binocular_Vector","NVGoggles","ItemCompass","ItemHatchet","ItemKnife","Itemmatchbox","Itemetool","ItemSledge","ItemRadio","ItemWatch","ItemGPS","ItemCrowbar","ItemKnife"],"DZ_GunBag_EP1",[],[],0,0],
 	[]
 ];
 DefaultMagazines = ["ItemBandage","ItemBandage","ItemBandage","ItemPainkiller","ItemWaterbottle","FoodPistachio","17Rnd_9x19_glock17","17Rnd_9x19_glock17","17Rnd_9x19_glock17"]; 
@@ -1066,7 +1066,7 @@ DefaultBackpack = "DZ_Assault_Pack_EP1";
 
 presetClasses = [
 	["Bandit","Bandit2_DZ",["10x_303","10x_303"],["LeeEnfield"],"",[],[],0,-2000],
-	["Hero","Soldier_Sniper_PMC_DZ",["10x_303","10x_303"],["LeeEnfield"],"",[],[],0,5000],
+	["Hero","Sniper1_DZ",["5Rnd_762x51_M24","5Rnd_762x51_M24"],["M24"],"",[],[],0,5000],
 	["Survivor","Survivor2_DZ",[],[],"",[],[],0,0],
 	["British Soldier","Soldier1_DZ",["30Rnd_556x45_Stanag","30Rnd_556x45_Stanag"],["BAF_L85A2_RIS_Holo"],"",[],[],0,0],
 	["Business Person","Functionary1_EP1_DZ",["8Rnd_B_Beneli_74Slug","8Rnd_B_Beneli_74Slug","8Rnd_B_Beneli_74Slug","ItemBriefcaseS20oz"],["Remington870_lamp"],"",[],[],0,0],
