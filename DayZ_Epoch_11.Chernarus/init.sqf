@@ -30,10 +30,10 @@ enableSentences false;
 // DayZ Epoch config
 spawnShoremode = 1; // Default = 1 (on shore)
 spawnArea= 2000; // Default = 1500
-MaxVehicleLimit = 225; // Default = 50
+MaxVehicleLimit = 250; // Default = 50
 MaxDynamicDebris = 150; // Default = 100
 dayz_MapArea = 10000; // Default = 10000
-dayz_maxLocalZombies = 50; // Default = 30 
+dayz_maxLocalZombies = 55; // Default = 30 
 dayz_paraSpawn = false;
 dayz_spawnselection = 0;
 dayz_minpos = -1; 
@@ -47,7 +47,7 @@ DynamicVehicleDamageLow = 15;   // Default: 0
 DynamicVehicleDamageHigh = 100; // Default: 100
 dayz_spawnInfectedSite_clutterCutter = 1; // Infected Base Settings / 0 =  loot hidden in grass // 1 = loot lifted // 2 = cluttercutter // 3 = debug
 
-DZE_BuildOnRoads = false;       // Default: False
+DZE_BuildOnRoads = true;       // Default: False
 DZE_requireplot = 0;            // 1 for on, 0 for off
 DZE_teleport = [14000,14000,14000,14000,14000];
 DZE_StaticConstructionCount = 1;
@@ -60,7 +60,7 @@ DZE_BackpackGuard = false;     // Default = true, true to enable, false to disab
 DZE_ForceNameTagsOff = false;
 DZE_R3F_WEIGHT = false;        // use weight system
 DZE_PlotPole = [100,115];	
-DZE_BuildingLimit = 400;       // how many items can a player build
+DZE_BuildingLimit = 650;       // how many items can a player build
 DZE_PlayerZed = false;         // should players have chance of becoming a ZOMBIE when they respawn after death
 DZE_LootSpawnTimer = 10;       // in minutes
 DZE_MissionLootTable = true;   // Custom Loot Tables
