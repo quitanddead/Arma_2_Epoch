@@ -1037,13 +1037,13 @@ server_logUnlockLockEvent = {
 //Enhanced Spawn Selection
 donorListBase = [
 	"76561198032047520", //Rad's Base
-	"0",
+	"76561198134898961", // Casey's Base
 	"0"
 ];
 
 donorListBases = [
 	[8345.77,2456.03,0], // Rad's Base (test)
-	[],
+	[13845.3,11761.1,0], // Casey's Base
 	[]
 ];
 donorClassLvl1 = ["0","0","0"]; // ??
