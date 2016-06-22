@@ -1048,10 +1048,10 @@ donorListBases = [
 ];
 donorClassLvl1 = ["0","0","0"]; // ??
 donorClassLvl2 = ["0","0","0"]; // ??
-donorClassLvl3 = ["76561198032047520","0","0"]; // Rad (test)
+donorClassLvl3 = ["76561198032047520","76561198134898961","0"]; // Rad Casey
 donorListClass = [
 	"0", // ??
-	"0", // ??
+	"76561198134898961", // Casey
 	"76561198032047520" //Rad (test)
 ];
 
