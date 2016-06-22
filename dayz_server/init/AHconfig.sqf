@@ -34,7 +34,7 @@
 /*  Key to open the menu  */ _OpenMenuKey = 0x3C;    /* google DIK_KeyCodes (0x3C is F2) */
 /*  LOW ADMIN HERE        */ _LAdmins = ["0","0","0"]; //do not have a , at the end.
 /*  NORMAL ADMIN HERE     */ _NAdmins = ["0","0","0"]; //do not have a , at the end.
-/*  SUPER ADMIN HERE      */ _SAdmins = ["76561198032047520","76561198058368737","76561198134898961","76561198123632050","76561198068068752","76561198105556705"]; // Rad  Flamez  Casey  Taidashi  Trobzing  Tundra
+/*  SUPER ADMIN HERE      */ _SAdmins = ["76561198032047520","76561198134898961","0","0","0"]; // Rad  Casey  
 /*  BANNED PLAYER HERE    */ _BLOCKED = ["0","0","0"]; //do not have a , at the end.
 /* ********************************************************************************* */
 /*  Top esc menu TXT      */ _TopOfESC = "CRFT Gaming DayZ"; //do not use " in this text.
