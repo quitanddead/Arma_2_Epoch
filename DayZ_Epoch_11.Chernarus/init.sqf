@@ -174,10 +174,10 @@ if (!isDedicated) then {
 	};
 };
 
-if(ServerWelcomeCreditsScript)then{
-	//Welcome Credits
-	 execVM "scripts\ServerWelcomeCredits.sqf";
-};
+//if(ServerWelcomeCreditsScript)then
+//Welcome Credits
+// execVM "scripts\ServerWelcomeCredits.sqf";
+//};
 if(RegenBloodScript)then{
 	//Regen Blood
 	 execVM "scripts\RegenBlood\regenblood.sqf";

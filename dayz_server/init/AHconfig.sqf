@@ -34,14 +34,14 @@
 /*  Key to open the menu  */ _OpenMenuKey = 0x3C;    /* google DIK_KeyCodes (0x3C is F2) */
 /*  LOW ADMIN HERE        */ _LAdmins = ["0","0","0"]; //do not have a , at the end.
 /*  NORMAL ADMIN HERE     */ _NAdmins = ["0","0","0"]; //do not have a , at the end.
-/*  SUPER ADMIN HERE      */ _SAdmins = ["76561198032047520","76561198134898961","0","0","0"]; // Rad  Casey  
+/*  SUPER ADMIN HERE      */ _SAdmins = ["76561198134898961","0","0","0"]; //  Casey  
 /*  BANNED PLAYER HERE    */ _BLOCKED = ["0","0","0"]; //do not have a , at the end.
 /* ********************************************************************************* */
-/*  Top esc menu TXT      */ _TopOfESC = "CRFT Gaming DayZ"; //do not use " in this text.
+/*  Top esc menu TXT      */ _TopOfESC = "CRFT Gaming's DayZ"; //do not use " in this text.
 /*  Bottom esc menu TXT   */ _LowerTop = "Join Us On Teamspeak"; //do not use " in this text.
-/*  Bottom esc menu TXT2  */ _LowerBottom = "at  192.111.144.6"; //do not use " in this text.
+/*  Bottom esc menu TXT2  */ _LowerBottom = "at  192.254.65.194"; //do not use " in this text.
 /*  Color esc menu TXT    */ _EscColor = [0.6,0,0,1];
-/*  DebugMonitor TXT      */ _BottomDebug = "TeamSpeak: 192.111.144.6"; //do not use " in this text.
+/*  DebugMonitor TXT      */ _BottomDebug = "TeamSpeak: 192.254.65.194"; //do not use " in this text.
 /*  DebugMonitor Key      */ _ODK =  0xCF;	/* google DIK_KeyCodes (0xCF is END) */
 /*  Use DebugMonitor      */ _DMS = false;	/* true or false */	/* starts up with debugmonitor ON if true */
 /*  DebugMonitor Action   */ _DMW = false;	/* true or false */	/* "Debug" option on mousewheel */
