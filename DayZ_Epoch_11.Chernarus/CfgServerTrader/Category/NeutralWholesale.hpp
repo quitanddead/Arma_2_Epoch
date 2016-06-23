@@ -4,6 +4,11 @@ class Category_675 {
 		buy[] = {2,"ItemGoldBar"};
 		sell[] = {2,"ItemGoldBar"};
 	};
+	class bulk_30Rnd_9x19_MP5SD {
+		type = "trade_items";
+		buy[] = {2,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
+	};
 	class bulk_17Rnd_9x19_glock17 {
 		type = "trade_items";
 		buy[] = {2,"ItemGoldBar"};
@@ -14,10 +19,20 @@ class Category_675 {
 		buy[] = {2,"ItemGoldBar"};
 		sell[] = {2,"ItemGoldBar"};
 	};
-	class bulk_30Rnd_9x19_MP5SD {
+	class bulk_ItemWire {
 		type = "trade_items";
-		buy[] = {2,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
+		buy[] = {3,"ItemSilverBar10oz"};
+		sell[] = {3,"ItemSilverBar10oz"};
+	};
+	class bulk_PartGeneric {
+		type = "trade_items";
+		buy[] = {5,"ItemSilverBar10oz"};
+		sell[] = {3,"ItemSilverBar10oz"};
+	};
+	class ItemPole {
+		type = "trade_items";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemSilverBar10oz"};
 	};
 	class bulk_ItemSandbag {
 		type = "trade_items";
@@ -29,39 +44,49 @@ class Category_675 {
 		buy[] = {1,"ItemGoldBar"};
 		sell[] = {1,"ItemGoldBar"};
 	};
-	class bulk_ItemWire {
+	class PartPlankPack {
 		type = "trade_items";
-		buy[] = {3,"ItemSilverBar10oz"};
-		sell[] = {3,"ItemSilverBar10oz"};
-	};
-	class bulk_PartGeneric {
-		type = "trade_items";
-		buy[] = {6,"ItemSilverBar10oz"};
-		sell[] = {6,"ItemSilverBar10oz"};
-	};
-	class CinderBlocks {
-		type = "trade_items";
-		buy[] = {1,"ItemGoldBar10oz"};
-		sell[] = {5,"ItemGoldBar"};
+		buy[] = {1,"ItemSilverBar10oz"};
+		sell[] = {5,"ItemSilverBar"};
 	};
 	class PartPlywoodPack {
 		type = "trade_items";
 		buy[] = {2,"ItemSilverBar10oz"};
 		sell[] = {1,"ItemSilverBar10oz"};
 	};
+	class CinderBlocks {
+		type = "trade_items";
+		buy[] = {5,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
+	};
 	class MortarBucket {
 		type = "trade_items";
-		buy[] = {1,"ItemGoldBar10oz"};
-		sell[] = {5,"ItemGoldBar"};
+		buy[] = {5,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
 	};
-	class PartPlankPack {
+	class cinder_wall_kit {
 		type = "trade_items";
-		buy[] = {1,"ItemSilverBar10oz"};
-		sell[] = {5,"ItemSilverBar"};
+		buy[] = {5,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
+	};
+	class cinder_garage_kit {
+		type = "trade_items";
+		buy[] = {8,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
+	};
+	class metal_floor_kit {
+		type = "trade_items";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemSilverBar10oz"};
 	};
 	class ItemFuelBarrelEmpty {
 		type = "trade_items";
 		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemSilverBar10oz"};
+	};
+	class wooden_shed_kit {
+		type = "trade_items";
+		buy[] = {5,"ItemGoldBar"};
 		sell[] = {5,"ItemSilverBar10oz"};
 	};
 };
@@ -71,6 +96,11 @@ class Category_636 {
 		buy[] = {2,"ItemGoldBar"};
 		sell[] = {2,"ItemGoldBar"};
 	};
+	class bulk_30Rnd_9x19_MP5SD {
+		type = "trade_items";
+		buy[] = {2,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
+	};
 	class bulk_17Rnd_9x19_glock17 {
 		type = "trade_items";
 		buy[] = {2,"ItemGoldBar"};
@@ -81,10 +111,20 @@ class Category_636 {
 		buy[] = {2,"ItemGoldBar"};
 		sell[] = {2,"ItemGoldBar"};
 	};
-	class bulk_30Rnd_9x19_MP5SD {
+	class bulk_ItemWire {
 		type = "trade_items";
-		buy[] = {2,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
+		buy[] = {3,"ItemSilverBar10oz"};
+		sell[] = {3,"ItemSilverBar10oz"};
+	};
+	class bulk_PartGeneric {
+		type = "trade_items";
+		buy[] = {5,"ItemSilverBar10oz"};
+		sell[] = {3,"ItemSilverBar10oz"};
+	};
+	class ItemPole {
+		type = "trade_items";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemSilverBar10oz"};
 	};
 	class bulk_ItemSandbag {
 		type = "trade_items";
@@ -96,39 +136,49 @@ class Category_636 {
 		buy[] = {1,"ItemGoldBar"};
 		sell[] = {1,"ItemGoldBar"};
 	};
-	class bulk_ItemWire {
+	class PartPlankPack {
 		type = "trade_items";
-		buy[] = {3,"ItemSilverBar10oz"};
-		sell[] = {3,"ItemSilverBar10oz"};
-	};
-	class bulk_PartGeneric {
-		type = "trade_items";
-		buy[] = {6,"ItemSilverBar10oz"};
-		sell[] = {6,"ItemSilverBar10oz"};
-	};
-	class CinderBlocks {
-		type = "trade_items";
-		buy[] = {1,"ItemGoldBar10oz"};
-		sell[] = {5,"ItemGoldBar"};
+		buy[] = {1,"ItemSilverBar10oz"};
+		sell[] = {5,"ItemSilverBar"};
 	};
 	class PartPlywoodPack {
 		type = "trade_items";
 		buy[] = {2,"ItemSilverBar10oz"};
 		sell[] = {1,"ItemSilverBar10oz"};
 	};
+	class CinderBlocks {
+		type = "trade_items";
+		buy[] = {5,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
+	};
 	class MortarBucket {
 		type = "trade_items";
-		buy[] = {1,"ItemGoldBar10oz"};
-		sell[] = {5,"ItemGoldBar"};
+		buy[] = {5,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
 	};
-	class PartPlankPack {
+	class cinder_wall_kit {
 		type = "trade_items";
-		buy[] = {1,"ItemSilverBar10oz"};
-		sell[] = {5,"ItemSilverBar"};
+		buy[] = {5,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
+	};
+	class cinder_garage_kit {
+		type = "trade_items";
+		buy[] = {8,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
+	};
+	class metal_floor_kit {
+		type = "trade_items";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemSilverBar10oz"};
 	};
 	class ItemFuelBarrelEmpty {
 		type = "trade_items";
 		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemSilverBar10oz"};
+	};
+	class wooden_shed_kit {
+		type = "trade_items";
+		buy[] = {5,"ItemGoldBar"};
 		sell[] = {5,"ItemSilverBar10oz"};
 	};
 };
@@ -138,6 +188,11 @@ class Category_555 {
 		buy[] = {2,"ItemGoldBar"};
 		sell[] = {2,"ItemGoldBar"};
 	};
+	class bulk_30Rnd_9x19_MP5SD {
+		type = "trade_items";
+		buy[] = {2,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
+	};
 	class bulk_17Rnd_9x19_glock17 {
 		type = "trade_items";
 		buy[] = {2,"ItemGoldBar"};
@@ -148,10 +203,20 @@ class Category_555 {
 		buy[] = {2,"ItemGoldBar"};
 		sell[] = {2,"ItemGoldBar"};
 	};
-	class bulk_30Rnd_9x19_MP5SD {
+	class bulk_ItemWire {
 		type = "trade_items";
-		buy[] = {2,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
+		buy[] = {3,"ItemSilverBar10oz"};
+		sell[] = {3,"ItemSilverBar10oz"};
+	};
+	class bulk_PartGeneric {
+		type = "trade_items";
+		buy[] = {5,"ItemSilverBar10oz"};
+		sell[] = {3,"ItemSilverBar10oz"};
+	};
+	class ItemPole {
+		type = "trade_items";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemSilverBar10oz"};
 	};
 	class bulk_ItemSandbag {
 		type = "trade_items";
@@ -163,39 +228,49 @@ class Category_555 {
 		buy[] = {1,"ItemGoldBar"};
 		sell[] = {1,"ItemGoldBar"};
 	};
-	class bulk_PartGeneric {
+	class PartPlankPack {
 		type = "trade_items";
-		buy[] = {6,"ItemSilverBar10oz"};
-		sell[] = {6,"ItemSilverBar10oz"};
-	};
-	class CinderBlocks {
-		type = "trade_items";
-		buy[] = {1,"ItemGoldBar10oz"};
-		sell[] = {5,"ItemGoldBar"};
+		buy[] = {1,"ItemSilverBar10oz"};
+		sell[] = {5,"ItemSilverBar"};
 	};
 	class PartPlywoodPack {
 		type = "trade_items";
 		buy[] = {2,"ItemSilverBar10oz"};
 		sell[] = {1,"ItemSilverBar10oz"};
 	};
+	class CinderBlocks {
+		type = "trade_items";
+		buy[] = {5,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
+	};
 	class MortarBucket {
 		type = "trade_items";
-		buy[] = {1,"ItemGoldBar10oz"};
-		sell[] = {5,"ItemGoldBar"};
+		buy[] = {5,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
 	};
-	class PartPlankPack {
+	class cinder_wall_kit {
 		type = "trade_items";
-		buy[] = {1,"ItemSilverBar10oz"};
-		sell[] = {5,"ItemSilverBar"};
+		buy[] = {5,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
 	};
-	class bulk_ItemWire {
+	class cinder_garage_kit {
 		type = "trade_items";
-		buy[] = {3,"ItemSilverBar10oz"};
-		sell[] = {3,"ItemSilverBar10oz"};
+		buy[] = {8,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
+	};
+	class metal_floor_kit {
+		type = "trade_items";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemSilverBar10oz"};
 	};
 	class ItemFuelBarrelEmpty {
 		type = "trade_items";
 		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemSilverBar10oz"};
+	};
+	class wooden_shed_kit {
+		type = "trade_items";
+		buy[] = {5,"ItemGoldBar"};
 		sell[] = {5,"ItemSilverBar10oz"};
 	};
 };
