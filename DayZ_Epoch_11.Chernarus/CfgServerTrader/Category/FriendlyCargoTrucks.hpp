@@ -14,22 +14,32 @@ class Category_564 {
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
 	};
-	class V3S_Open_TK_CIV_EP1 {
+	class UralCivil_DZE {
 		type = "trade_any_vehicle";
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
 	};
-	class V3S_Open_TK_EP1 {
+	class UralCivil2_DZE {
 		type = "trade_any_vehicle";
-		buy[] = {2,"ItemGoldBar10oz"};
-		sell[] = {1,"ItemGoldBar10oz"};
+		buy[] = {1,"ItemGoldBar10oz"};
+		sell[] = {5,"ItemGoldBar"};
 	};
 	class Kamaz {
 		type = "trade_any_vehicle";
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
 	};
-	class MTVR_DES_EP1 {
+	class KamazOpen_DZE {
+		type = "trade_any_vehicle";
+		buy[] = {2,"ItemGoldBar10oz"};
+		sell[] = {1,"ItemGoldBar10oz"};
+	};
+	class V3S_Open_TK_CIV_EP1 {
+		type = "trade_any_vehicle";
+		buy[] = {2,"ItemGoldBar10oz"};
+		sell[] = {1,"ItemGoldBar10oz"};
+	};
+	class V3S_Open_TK_EP1 {
 		type = "trade_any_vehicle";
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
@@ -49,22 +59,12 @@ class Category_564 {
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
 	};
-	class UralCivil_DZE {
-		type = "trade_any_vehicle";
-		buy[] = {2,"ItemGoldBar10oz"};
-		sell[] = {1,"ItemGoldBar10oz"};
-	};
-	class UralCivil2_DZE {
-		type = "trade_any_vehicle";
-		buy[] = {1,"ItemGoldBar10oz"};
-		sell[] = {5,"ItemGoldBar"};
-	};
-	class KamazOpen_DZE {
-		type = "trade_any_vehicle";
-		buy[] = {2,"ItemGoldBar10oz"};
-		sell[] = {1,"ItemGoldBar10oz"};
-	};
 	class MTVR {
+		type = "trade_any_vehicle";
+		buy[] = {2,"ItemGoldBar10oz"};
+		sell[] = {1,"ItemGoldBar10oz"};
+	};
+	class MTVR_DES_EP1 {
 		type = "trade_any_vehicle";
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
@@ -86,22 +86,32 @@ class Category_570 {
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
 	};
-	class V3S_Open_TK_CIV_EP1 {
+	class UralCivil_DZE {
 		type = "trade_any_vehicle";
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
 	};
-	class V3S_Open_TK_EP1 {
+	class UralCivil2_DZE {
 		type = "trade_any_vehicle";
-		buy[] = {2,"ItemGoldBar10oz"};
-		sell[] = {1,"ItemGoldBar10oz"};
+		buy[] = {1,"ItemGoldBar10oz"};
+		sell[] = {5,"ItemGoldBar"};
 	};
 	class Kamaz {
 		type = "trade_any_vehicle";
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
 	};
-	class MTVR_DES_EP1 {
+	class KamazOpen_DZE {
+		type = "trade_any_vehicle";
+		buy[] = {2,"ItemGoldBar10oz"};
+		sell[] = {1,"ItemGoldBar10oz"};
+	};
+	class V3S_Open_TK_CIV_EP1 {
+		type = "trade_any_vehicle";
+		buy[] = {2,"ItemGoldBar10oz"};
+		sell[] = {1,"ItemGoldBar10oz"};
+	};
+	class V3S_Open_TK_EP1 {
 		type = "trade_any_vehicle";
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
@@ -121,22 +131,12 @@ class Category_570 {
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
 	};
-	class UralCivil_DZE {
-		type = "trade_any_vehicle";
-		buy[] = {2,"ItemGoldBar10oz"};
-		sell[] = {1,"ItemGoldBar10oz"};
-	};
-	class UralCivil2_DZE {
-		type = "trade_any_vehicle";
-		buy[] = {1,"ItemGoldBar10oz"};
-		sell[] = {5,"ItemGoldBar"};
-	};
-	class KamazOpen_DZE {
-		type = "trade_any_vehicle";
-		buy[] = {2,"ItemGoldBar10oz"};
-		sell[] = {1,"ItemGoldBar10oz"};
-	};
 	class MTVR {
+		type = "trade_any_vehicle";
+		buy[] = {2,"ItemGoldBar10oz"};
+		sell[] = {1,"ItemGoldBar10oz"};
+	};
+	class MTVR_DES_EP1 {
 		type = "trade_any_vehicle";
 		buy[] = {2,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
