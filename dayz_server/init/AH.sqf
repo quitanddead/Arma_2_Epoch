@@ -11992,7 +11992,7 @@ diag_log ("infiSTAR.de - ADDING PublicVariableEventHandlers");
 			[_dir,_pos] spawn {
 				_dir = _this select 0;
 				_pos = _this select 1;
-				_b0x = 'RUBasicWeaponsBox' createVehicle _pos;
+				_b0x = 'USOrdnanceBox' createVehicle _pos;
 				_b0x setPosATL _pos;
 				clearWeaponCargoGlobal _b0x;
 				clearmagazinecargoGlobal _b0x;
@@ -12066,7 +12066,7 @@ diag_log ("infiSTAR.de - ADDING PublicVariableEventHandlers");
 			[_dir,_pos] spawn {
 				_dir = _this select 0;
 				_pos = _this select 1;
-				_b0x = 'RUBasicWeaponsBox' createVehicle _pos;
+				_b0x = 'USOrdnanceBox' createVehicle _pos;
 				_b0x setPosATL _pos;
 				clearWeaponCargoGlobal _b0x;
 				clearmagazinecargoGlobal _b0x;
@@ -12129,7 +12129,7 @@ diag_log ("infiSTAR.de - ADDING PublicVariableEventHandlers");
 			[_dir,_pos] spawn {
 				_dir = _this select 0;
 				_pos = _this select 1;
-				_b0x = 'RUBasicWeaponsBox' createVehicle _pos;
+				_b0x = 'USOrdnanceBox' createVehicle _pos;
 				_b0x setPosATL _pos;
 				clearWeaponCargoGlobal _b0x;
 				clearmagazinecargoGlobal _b0x;
@@ -12171,7 +12171,7 @@ diag_log ("infiSTAR.de - ADDING PublicVariableEventHandlers");
 			[_dir,_pos,_playerObj] spawn {
 				_dir = _this select 0;
 				_pos = _this select 1;
-				_b0x = 'RUBasicWeaponsBox' createVehicle _pos;
+				_b0x = 'USOrdnanceBox' createVehicle _pos;
 				clearWeaponCargoGlobal _b0x;
 				clearmagazinecargoGlobal _b0x;
 				_b0x setPosATL _pos;
@@ -12190,7 +12190,7 @@ diag_log ("infiSTAR.de - ADDING PublicVariableEventHandlers");
 			[_dir,_pos,_playerObj] spawn {
 				_dir = _this select 0;
 				_pos = _this select 1;
-				_b0x = 'RUBasicWeaponsBox' createVehicle _pos;
+				_b0x = 'USOrdnanceBox' createVehicle _pos;
 				clearWeaponCargoGlobal _b0x;
 				clearmagazinecargoGlobal _b0x;
 				_b0x setPosATL _pos;
@@ -12221,7 +12221,7 @@ diag_log ("infiSTAR.de - ADDING PublicVariableEventHandlers");
 			[_dir,_pos,_playerObj] spawn {
 				_dir = _this select 0;
 				_pos = _this select 1;
-				_b0x = 'RUBasicWeaponsBox' createVehicle _pos;
+				_b0x = 'USOrdnanceBox' createVehicle _pos;
 				clearWeaponCargoGlobal _b0x;
 				clearmagazinecargoGlobal _b0x;
 				_b0x setPosATL _pos;
