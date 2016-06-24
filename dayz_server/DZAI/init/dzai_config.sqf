@@ -175,7 +175,7 @@ DZAI_respawnTMinA = 600;
 DZAI_respawnTMaxA = 900;
 
 //Classnames of air vehicle types to use, with the maximum amount of each type to spawn.
-DZAI_heliList = [["UH1H_DZ",3],["Mi17_TK_EP1",2],["UH60M_EP1",2],["CH_47F_EP1",1],["Ka137_MG_PMC",1]];
+DZAI_heliList = [["UH1H_DZ",3],["Mi17_TK_EP1",2],["UH60M_EP1",2],["CH_47F_EP1",1],["Ka-60 [PMC]",1]];
 
 //Difficulty level of air vehicle patrol units. Difficulty level also affects unit loadout and loot. Possible values: 0 to 3 (Default: 3)
 DZAI_heliUnitLevel = 2;
