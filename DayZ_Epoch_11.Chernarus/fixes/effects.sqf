@@ -9,10 +9,10 @@
 //_hndl ppEffectCommit 0;
 
 //Wasteland 
-_hndl = ppEffectCreate ["colorCorrections", 1501];
-_hndl ppEffectEnable true;
-_hndl ppEffectAdjust [1, 1, 0, [0.0, 0.0, 0.0, 0.0], [0.8*2, 0.5*2, 0.0, 0.7], [0.9, 0.9, 0.9, 0.0]];
-_hndl ppEffectCommit 0;
+//_hndl = ppEffectCreate ["colorCorrections", 1501];
+//_hndl ppEffectEnable true;
+//_hndl ppEffectAdjust [1, 1, 0, [0.0, 0.0, 0.0, 0.0], [0.8*2, 0.5*2, 0.0, 0.7], [0.9, 0.9, 0.9, 0.0]];
+//_hndl ppEffectCommit 0;
 
 //Dark draining
 //_hndl = ppEffectCreate ["colorCorrections", 1501];
@@ -27,10 +27,10 @@ _hndl ppEffectCommit 0;
 //_hndl ppEffectCommit 0;
 
 //Sumer Chernarus 
-//_hndl = ppEffectCreate ["colorCorrections", 1501];
-//_hndl ppEffectEnable true;
-//_hndl ppEffectAdjust [1,1,0,[0,0,0,0],[2,0,0,1.25],[2.5,-2.5,0,0]];
-//_hndl ppEffectCommit 0;
+_hndl = ppEffectCreate ["colorCorrections", 1501];
+_hndl ppEffectEnable true;
+_hndl ppEffectAdjust [1,1,0,[0,0,0,0],[2,0,0,1.25],[2.5,-2.5,0,0]];
+_hndl ppEffectCommit 0;
 
 //Dog Vision 
 //_hndl = ppEffectCreate ["colorCorrections", 1501];
