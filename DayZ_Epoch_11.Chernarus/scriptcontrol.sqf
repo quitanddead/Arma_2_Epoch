@@ -8,7 +8,7 @@ DZGMScript = true;
 //Regen Blood
 RegenBloodScript = true;
 //Welcome credits
-ServerWelcomeCreditsScript = true;
+ServerWelcomeCreditsScript = false;
 //Watermark ( bottom left of screen)
 WaterMarkScript = true;
 //EVR Blowout
@@ -20,7 +20,7 @@ HelpScript = true;
 //Heroperks
 HeroPerkScript = true;
 //Fast Roping
-FastropeScript = true;
+FastropeScript = false;
 //Harvest Hemp
 HarvestHempScript = true;
 //Lights
@@ -88,7 +88,7 @@ CRAFTINGSCRIPT = true;
 //Carepackages (100oz Briefcase)
 CarepackageScript = true;
 //SirenS
-SirenScript = true;
+SirenScript = false;
 //Elevator
 ElevatorScript = true;
 //Zombie Trucks

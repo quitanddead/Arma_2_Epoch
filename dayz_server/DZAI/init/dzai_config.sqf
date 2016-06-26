@@ -13,7 +13,7 @@ diag_log "[DZAI] Reading DZAI configuration file.";
 
 //Enable or disable event logging to arma2oaserver.rpt. Debug level setting. 0: No debug output, 1: Basic Debug output, 2: Extended Debug output. (Default: 0)
 //Debug output may help finding additional information about DZAI's background behavior. This output is helpful when asking for help regarding bugs or unexpected behaviors.
-DZAI_debugLevel = 0;
+DZAI_debugLevel = 2;
 
 //Frequency of server monitor update to RPT log in seconds. The monitor periodically reports number of max/current AI units and dynamically spawned triggers into RPT log. (Default: 300, 0 = Disable reporting)										
 DZAI_monitorRate = 300;
@@ -23,7 +23,7 @@ DZAI_monitorRate = 300;
 DZAI_verifyTables = true;
 
 //(Feature in development) Enables additional checking and error-correction of certain classname tables. (Default: false)
-DZAI_extendedVerify = false;
+DZAI_extendedVerify = true;
 
 //Enable to have server spawn in objects/buildings normally spawned clientside by DayZ's CfgTownGenerator. Prevents AI from walking/shooting through clutter and other objects. (Default: true)	
 //If running DayZ Mod ("vanilla DayZ") or DayZ Overwatch, it is highly recommended to enable this option, as many added buildings are handled by the CfgTownGenerator. Not used with Epoch.							
