@@ -27,10 +27,10 @@
 //_hndl ppEffectCommit 0;
 
 //Sumer Chernarus 
-_hndl = ppEffectCreate ["colorCorrections", 1501];
-_hndl ppEffectEnable true;
-_hndl ppEffectAdjust [1,1,0,[0,0,0,0],[2,0,0,1.25],[2.5,-2.5,0,0]];
-_hndl ppEffectCommit 0;
+//_hndl = ppEffectCreate ["colorCorrections", 1501];
+//_hndl ppEffectEnable true;
+//_hndl ppEffectAdjust [1,1,0,[0,0,0,0],[2,0,0,1.25],[2.5,-2.5,0,0]];
+//_hndl ppEffectCommit 0;
 
 //Dog Vision 
 //_hndl = ppEffectCreate ["colorCorrections", 1501];
@@ -81,10 +81,10 @@ _hndl ppEffectCommit 0;
 //_hndl ppEffectCommit 0;
 
 //Heavy Colour Correction 
-//_hndl = ppEffectCreate ["colorCorrections", 1501];
-//_hndl ppEffectEnable true;
-//_hndl ppEffectAdjust [1, 1.04, -0.004, [0.0, 0.0, 0.0, 0.0], [1, 0.8, 0.6, 0.5], [0.199, 0.587, 0.114, 0.0]];
-//_hndl ppEffectCommit 0;
+_hndl = ppEffectCreate ["colorCorrections", 1501];
+_hndl ppEffectEnable true;
+_hndl ppEffectAdjust [1, 1.04, -0.004, [0.0, 0.0, 0.0, 0.0], [1, 0.8, 0.6, 0.5], [0.199, 0.587, 0.114, 0.0]];
+_hndl ppEffectCommit 0;
 
 //Zombie View 
 //_hndl = ppEffectCreate ["colorCorrections", 1501];
