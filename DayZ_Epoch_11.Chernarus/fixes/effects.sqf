@@ -3,16 +3,16 @@
 //Put this line at the bottom of your init.sqf "execVM "fixes\effects.sqf";" and your good to go! Thanks, Tiger.
 
 //Clear contrast 
-_hndl = ppEffectCreate ["colorCorrections", 1501];
-_hndl ppEffectEnable true;
-_hndl ppEffectAdjust [ 1, 1, 0, [0, 0, 0, -0.31],[1.9, 1.9, 1.73, 0.7],[0.2, 1.1, -1.5, 1.64]];
-_hndl ppEffectCommit 0;
-
-//Wasteland 
 //_hndl = ppEffectCreate ["colorCorrections", 1501];
 //_hndl ppEffectEnable true;
-//_hndl ppEffectAdjust [1, 1, 0, [0.0, 0.0, 0.0, 0.0], [0.8*2, 0.5*2, 0.0, 0.7], [0.9, 0.9, 0.9, 0.0]];
+//_hndl ppEffectAdjust [ 1, 1, 0, [0, 0, 0, -0.31],[1.9, 1.9, 1.73, 0.7],[0.2, 1.1, -1.5, 1.64]];
 //_hndl ppEffectCommit 0;
+
+//Wasteland 
+_hndl = ppEffectCreate ["colorCorrections", 1501];
+_hndl ppEffectEnable true;
+_hndl ppEffectAdjust [1, 1, 0, [0.0, 0.0, 0.0, 0.0], [0.8*2, 0.5*2, 0.0, 0.7], [0.9, 0.9, 0.9, 0.0]];
+_hndl ppEffectCommit 0;
 
 //Dark draining
 //_hndl = ppEffectCreate ["colorCorrections", 1501];

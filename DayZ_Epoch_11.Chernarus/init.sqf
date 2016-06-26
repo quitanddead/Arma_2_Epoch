@@ -34,10 +34,10 @@ enableSentences false;
 // DayZ Epoch config
 spawnShoremode = 1; // Default = 1 (on shore)
 spawnArea= 2000; // Default = 1500
-MaxVehicleLimit = 250; // Default = 50
-MaxDynamicDebris = 150; // Default = 100
+MaxVehicleLimit = 225; // Default = 50
+MaxDynamicDebris = 100; // Default = 100
 dayz_MapArea = 10000; // Default = 10000
-dayz_maxLocalZombies = 55; // Default = 30 
+dayz_maxLocalZombies = 30; // Default = 30 
 dayz_paraSpawn = false;
 dayz_spawnselection = 0;
 dayz_minpos = -1; 
@@ -298,11 +298,3 @@ call compile preprocessFileLineNumbers "scripts\zombietruck\init.sqf";
 espawn = compile preprocessFileLineNumbers "scripts\spawn\spawn.sqf";
 waitUntil {!isNil "PVDZE_plr_LoginRecord"};
 if ((!isDedicated) && (dayzPlayerLogin2 select 2)) then {call espawn;};
-
-//wait before admin script is active
-//sleep 15;
-//if(adminScript)then{
-///	// Epoch Admin Tools
-//	[] execVM "admintools\Activate.sqf";
-//	[] execVM "admintools\tools\adminbuild\keypress.sqf";
-//};

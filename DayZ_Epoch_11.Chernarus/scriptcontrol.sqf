@@ -48,7 +48,7 @@ DZMSScript = true;
 //VASP
 VASPScript = true;
 //Arrest
-ArrestScript = true;
+ArrestScript = false;
 //Animated SUV and MV22
 AnimatedSUVMV22 = true;
 //Taunt Zombies
@@ -56,7 +56,7 @@ TauntZombiesScript = true;
 //Bury Human
 BuryHumanScript = false;
 //Burn Tents
-BurnTentsScript = true;
+BurnTentsScript = false;
 //Tent Heal
 TentHealScript = true;
 //Rob Bank - bank will still be on map just cant rob it
@@ -82,7 +82,7 @@ BaseJumpScript = true;
 //Service Points
 ServicePointScript = true;
 //NOS
-NOSScript = true;
+NOSScript = false;
 //Crafting
 CRAFTINGSCRIPT = true;
 //Carepackages (100oz Briefcase)
