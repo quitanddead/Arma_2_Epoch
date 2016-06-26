@@ -565,7 +565,7 @@ execVM "\z\addons\dayz_server\CustomBuildings\Eastcoast2.sqf";
 //Black Lake Castle
 //execVM "\z\addons\dayz_server\CustomBuildings\blacklakecastle.sqf";
 
-execVM "\z\addons\dayz_server\CustomBuildings\kabinocheckpoint.sqf";
+//execVM "\z\addons\dayz_server\CustomBuildings\kabinocheckpoint.sqf";
 execVM "\z\addons\dayz_server\CustomBuildings\otmel.sqf";
 
 //road from dam to sector FNG
