@@ -1042,8 +1042,8 @@ donorListBase = [
 ];
 
 donorListBases = [
-	[8345.77,2456.03,0], // Rad's Base (test)
-	[13859.8,11743.3,0.00119448], // Casey's Base
+	[9665.2,9353.93,0.183777], // Rad's Base (test)
+	[13840.5,11767.7,0.00166082], // Casey's Base
 	[]
 ];
 donorClassLvl1 = ["0","0","0"]; // ??
