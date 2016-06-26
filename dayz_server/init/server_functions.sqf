@@ -33,7 +33,7 @@ server_spawnAN2CrashSite = 	    compile preprocessFileLineNumbers "\z\addons\day
 server_spawnAN2 =               compile preprocessFileLineNumbers "\z\addons\dayz_server\compile\server_spawnAN2.sqf"; 
 server_carepackagedrop =        compile preprocessFileLineNumbers "\z\addons\dayz_server\compile\server_carepackagedrop.sqf";
 ///////////////////////////mmmyum custom
-server_airRaid =                compile preprocessFileLineNumbers "z\addons\dayz_server\compile\server_airRaid.sqf";
+//server_airRaid =                compile preprocessFileLineNumbers "z\addons\dayz_server\compile\server_airRaid.sqf";
 //Infected Camps
 spawnComposition =              compile preprocessFileLineNumbers "\z\addons\dayz_server\compile\object_mapper.sqf"; // Include BIS compositions
 fn_bases =                      compile preprocessFileLineNumbers "\z\addons\dayz_server\compile\fn_bases.sqf"; // Infected Camps
@@ -519,7 +519,7 @@ spawn_mineveins = {
 };
 
 //Sector FNG inland
-execVM "\z\addons\dayz_server\CustomBuildings\sectorfng\sectorfng_init.sqf";
+//execVM "\z\addons\dayz_server\CustomBuildings\sectorfng\sectorfng_init.sqf";
 
 //IXXO
 execVM "\z\addons\dayz_server\CustomBuildings\balota.sqf";
@@ -563,7 +563,7 @@ execVM "\z\addons\dayz_server\CustomBuildings\Eastcoast.sqf";
 execVM "\z\addons\dayz_server\CustomBuildings\Eastcoast2.sqf";
 
 //Black Lake Castle
-execVM "\z\addons\dayz_server\CustomBuildings\blacklakecastle.sqf";
+//execVM "\z\addons\dayz_server\CustomBuildings\blacklakecastle.sqf";
 
 execVM "\z\addons\dayz_server\CustomBuildings\kabinocheckpoint.sqf";
 execVM "\z\addons\dayz_server\CustomBuildings\otmel.sqf";
@@ -1043,7 +1043,7 @@ donorListBase = [
 
 donorListBases = [
 	[8345.77,2456.03,0], // Rad's Base (test)
-	[13845.3,11761.1,0], // Casey's Base
+	[135.527,13841.6,11769,0.0381951], // Casey's Base
 	[]
 ];
 donorClassLvl1 = ["0","0","0"]; // ??
