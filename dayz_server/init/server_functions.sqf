@@ -518,9 +518,6 @@ spawn_mineveins = {
 	};
 };
 
-//Sector FNG inland
-//execVM "\z\addons\dayz_server\CustomBuildings\sectorfng\sectorfng_init.sqf";
-
 //IXXO
 execVM "\z\addons\dayz_server\CustomBuildings\balota.sqf";
 execVM "\z\addons\dayz_server\CustomBuildings\kamenka.sqf";
@@ -562,10 +559,7 @@ execVM "\z\addons\dayz_server\CustomBuildings\banks\nbank_novy_sobor.sqf";
 execVM "\z\addons\dayz_server\CustomBuildings\Eastcoast.sqf";
 execVM "\z\addons\dayz_server\CustomBuildings\Eastcoast2.sqf";
 
-//Black Lake Castle
-//execVM "\z\addons\dayz_server\CustomBuildings\blacklakecastle.sqf";
-
-//execVM "\z\addons\dayz_server\CustomBuildings\kabinocheckpoint.sqf";
+//otmel island
 execVM "\z\addons\dayz_server\CustomBuildings\otmel.sqf";
 
 //road from dam to sector FNG
