@@ -2,13 +2,17 @@ server_name = "CRFT Gaming";
 
 //execVM "admintools\AdminList.sqf";
 execVM "scriptcontrol.sqf";
+
 // CPC Nametags
 [] execVM "scripts\cpcnametags\cpcnametags.sqf";
+
 //Color Correction
  if (!isDedicated) then {
     [] execVM "fixes\effects.sqf";
     };
-
+	
+//DYNAMIC WEATHER EFFECTS	
+execVM "scripts\DRN\DynamicWeatherEffects\DynamicWeatherEffects.sqf";
 
 /*	
 	For DayZ Epoch
