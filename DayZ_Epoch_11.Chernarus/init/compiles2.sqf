@@ -14,8 +14,6 @@ if (!isDedicated) then {
 };
 //Right Click
  player_selectSlot =            		compile preprocessFileLineNumbers "scripts\RightClick\ui_selectSlot.sqf";
- //Exploded vehicles drop loot
-vehicle_handleKilled = 				compile preprocessFileLineNumbers "scripts\ExplodedVehicleLoot\vehicle_handleKilled.sqf";
 //VASP
 // trader menu code
 	if (DZE_ConfigTrader) then {
@@ -25,8 +23,6 @@ vehicle_handleKilled = 				compile preprocessFileLineNumbers "scripts\ExplodedVe
 	};
 //Custom Self Actions
 fnc_usec_selfActions =			compile preprocessFileLineNumbers "fixes\fn_selfActions.sqf";
-//ZombieBait/Bomb
-zombie_findTargetAgent =    compile preprocessFileLineNumbers "scripts\ZombieBait_Bomb_Shield\zombie_findTargetAgent.sqf";
 //Smelting fix
 player_craftItem =			compile preprocessFileLineNumbers "fixes\player_craftItem.sqf";
 //CANT TOW LOCKED VEHICLES
