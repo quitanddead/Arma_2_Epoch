@@ -19,20 +19,10 @@ JournalScript = true;
 HelpScript = true;
 //Heroperks
 HeroPerkScript = true;
-//Fast Roping
-FastropeScript = false;
 //Harvest Hemp
 HarvestHempScript = true;
 //Lights
 LightsScripts = true;
-//Snow Storm
-SnowScript = false;
-//Ground Fog
-GroundFogScript = false;            //FPS
-//Wind Dust
-WindDustScript = false;             //FPS
-//Exploded vehicles drop loot
-ExplodedVehicleLootScript = false;  //Doesn't work yet
 //Walk Amongst Dead
 WalkAmongstDeadScript = true;
 //Debug Monitor
@@ -63,16 +53,8 @@ TentHealScript = true;
 RobBankScript = true;
 //Drink Water
 DrinkWaterScript = true;
-//Anti-Zombie Emitter
-AntiZombieEmitterScript = false;
-//Zombie Bait
-ZombieBaitScript = false;
-//Zombie Bomb
-ZombieBombScript = false;
 //Take Clothes
 TakeClothesScript = true;
-//Suicide
-SuicideScript = false;
 //Deploy Bike/MotorBike/Mozzie
 DeployBikeScript = true;
 //Towing
@@ -81,18 +63,12 @@ TowingScript = true;
 BaseJumpScript = true;
 //Service Points
 ServicePointScript = true;
-//NOS
-NOSScript = false;
 //Crafting
 CRAFTINGSCRIPT = true;
 //Carepackages (100oz Briefcase)
 CarepackageScript = true;
-//SirenS
-SirenScript = false;
 //Elevator
 ElevatorScript = true;
-//Zombie Trucks
-ZombieTruckScript = false;
 //trade from vehicle
 TradeFromVehicleScript = true;
 //EVAC chopper
